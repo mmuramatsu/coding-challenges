@@ -1,10 +1,10 @@
 # Problem: 594 - Longest Harmonious Subsequence (EASY)
 
-## Problem statment
+## Problem statement
 
 Given an integer array `nums`, our task is to find the length of the longest harmonious subsequence. An array is considered harmonious if the difference between the maximum and the minimum of the array is exactly $1$.
 
-## Solution idea
+## Intuition
 
 As the difference between the maximum and the minimum needs to be $1$, the array need to be formed by two unique elements, `x` and `x + 1`. Since we are working with integers, that's the only way we can find a difference of $1$. So, the length of an harmonious subsequence is the sum of the number of repetitions of `x` and `x + 1`.
 
