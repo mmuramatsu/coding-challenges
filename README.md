@@ -34,7 +34,7 @@ Each solution typically includes:
 
 * Test cases (if applicable or custom ones).
 
-**Node:** Not all solutions have an explanation in the code. I started adding them to make it easier to understand the solution when revisited and also to improve my general understanding of the problem. Example of solutions with explanations: [3405 - Count The Number Of Arrays With K Matching Adjacent Elements](/LeetCode/Hard/3405-Count_The_Number_Of_Arrays_With_K_Matching_Adjacent_Elements/3405-CountTheNumberOfArraysWithKMatchingAdjacentElements.py)
+**Node:** Not all solutions have an explanation in the code. I started adding them to make it easier to understand the solution when revisited and also to improve my general understanding of the problem. Example of solutions with explanations: [3307 - Find the K-th Character in String Game II (HARD)](/LeetCode/Hard/3307-Find_The_K-th_Character_In_String_Game_II/3307-FindTheK-thCharacterInStringGameII.md)
 
 ## 📂 Repository Structure
 
