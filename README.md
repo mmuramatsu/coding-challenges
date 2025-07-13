@@ -43,6 +43,10 @@ Solutions are organized primarily by **platform name** and then by **difficulty 
 ```
 coding-challenges/
 ├── LeetCode/
+│   ├── Contest/
+│   │   ├── Contest XXX/
+│   │   │   ├── problem1.py
+│   │   └── ...
 │   ├── Easy/
 │   │   ├── 1 - TwoSum/
 │   │   │   ├── 1-TwoSum.py
@@ -56,10 +60,9 @@ coding-challenges/
 │   │   │   ├── 51-N-Queens.py
 │       └── ...
 ├── HackerRank/
-│   ├── Algorithms/
-│   │   ├── Non-Divisible Set/
-│   │   │   └── Non-DivisibleSet.py
-│   │   └── ...
+│   ├── Non-Divisible Set/
+│   │   └── Non-DivisibleSet.py
+│   └── ...
 ├── README.md
 ├── .gitignore
 └── LICENSE
